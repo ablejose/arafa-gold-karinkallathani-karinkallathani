@@ -1,10 +1,10 @@
 import type { BrandConfig } from "@/types/brand";
 
 export const BRAND: BrandConfig = {
-  businessName: "Arafa Gold,Karinkallathani",
-  tagline: "Trusted Jewellery in Karinkallathani",
+  businessName: "Arafa Gold",
+  tagline: "Fine Gold, Diamond & Silver Jewellery in Karinkallathani",
   description:
-    "Arafa Gold,Karinkallathani is Karinkallathani's trusted destination for exquisite gold, diamond, and silver jewellery. We bring timeless craftsmanship and contemporary designs to every celebration in Karinkallathani and beyond.",
+    "Discover the finest gold, diamond, and silver jewellery in Karinkallathani. Arafa Gold has been a trusted name for exquisite jewellery craftsmanship, offering a stunning collection that reflects the rich cultural heritage of Karinkallathani.",
 
   logo: "/icons/logo.svg",
   favicon: "/favicon.ico",
@@ -30,7 +30,7 @@ export const BRAND: BrandConfig = {
       segments: { startAt: 32, loopEnd: 40 },
     },
     {
-      quote: "കരിങ്കല്ലത്താനിയുടെ ഹൃദയത്തിൽ നിന്ന്.",
+      quote: "കരിങ്കല്ലത്തനിയുടെ ഹൃദയത്തിൽ നിന്ന്.",
       description:
         "ഈ നാടിന്റെ പൈതൃകവും പുതുമയും ഒത്തുചേരുന്ന ആഭരണങ്ങൾ. തലമുറകളായി നിങ്ങൾ നൽകുന്ന വിശ്വാസത്തിന് സ്വർണ്ണത്തേക്കാൾ തിളക്കമുണ്ട്.",
       video:
@@ -40,10 +40,10 @@ export const BRAND: BrandConfig = {
   ],
 
   storeImages: [
-    "/images/store1.webp",
-    "/images/store2.webp",
-    "https://res.cloudinary.com/dswmqfzpd/image/upload/v1751825507/fallback1_jewellery.webp",
-    "https://res.cloudinary.com/dswmqfzpd/image/upload/v1751825507/fallback2_jewellery.webp",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn-PuvTwc7ABA1dEGeyCe2PNIIKkspV8p9832R1vqVP9vWEUcT03D8ppZD-5rsrVuQKMNpP7gzrd8FgYekgHCdGMRn4scy-l0qFzm5xZYHNKjAA094Yb-ESZwO2bDdly1vLbbNq=s1600",
+    "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkJA9o1WwLonwrgdTlCCzHGm9nbearBbnacGwoOZw63I_4maTPDTed8EycSxRe9459YpFn6VClpuIYe6IEQif-4-Tv0ilqcIKSszfNn1DFuQBlG-slChYhF3SrTymEUfwE3VMA25w=s1600",
+    "https://res.cloudinary.com/fylz5e3j/image/upload/v1782940196/hayazcc_vuguic.webp",
+    "https://res.cloudinary.com/fylz5e3j/image/upload/v1782940196/hayazbb_wb1juf.webp",
   ],
 
   address: "Karinkallathani, Kerala 679341",
@@ -58,32 +58,32 @@ export const BRAND: BrandConfig = {
   mapsLink:
     "https://www.google.com/maps/search/?api=1&query=Arafa%20Gold%2CKarinkallathani&query_place_id=ChIJzZkiCs3TpzsR_Nw7YT4BBsY",
 
-  openingHours: "Mon\u2013Sat: 9:30 AM \u2013 8:00 PM \u00b7 Sunday: 10:00 AM \u2013 7:00 PM",
+  openingHours: "Mon–Sat: 9:30 AM – 8:00 PM · Sunday: 10:00 AM – 7:00 PM",
 
   instagram: "",
   facebook: "",
 
   seo: {
-    title: "Arafa Gold,Karinkallathani | Gold, Diamond & Silver Jewellery in Karinkallathani",
+    title: "Arafa Gold | Gold & Diamond Jewellery in Karinkallathani",
     description:
-      "Arafa Gold,Karinkallathani — your trusted jewellery store in Karinkallathani, Kerala. Explore our collection of gold, diamond, and silver jewellery for every occasion.",
+      "Arafa Gold — your trusted jewellery store in Karinkallathani, Kerala. Explore our exquisite collection of gold, diamond and silver jewellery.",
     keywords: [
-      "Arafa Gold,Karinkallathani",
+      "Arafa Gold",
       "jewellery Karinkallathani",
       "gold jewellery Karinkallathani",
       "diamond jewellery Karinkallathani",
       "silver jewellery Karinkallathani",
       "jewellery store Karinkallathani",
-      "Karinkallathani gold shop",
       "jewellery Kerala",
+      "gold store Karinkallathani",
     ],
     canonical: "https://arafa-gold-karinkallathani-karinkallathani.vercel.app",
     ogImage:
-      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn-PuvTwc7ABA1dEGeyCe2PNIIKkspV8p9832R1vqVP9vWEUcT03D8ppZD-5rsrVuQKMRN4scy-l0qFzm5xZYHNKjAA094Yb-ESZwO2bDdly1vLbbNq=s1600",
+      "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWn-PuvTwc7ABA1dEGeyCe2PNIIKkspV8p9832R1vqVP9vWEUcT03D8ppZD-5rsrVuQKMNpP7gzrd8FgYekgHCdGMRn4scy-l0qFzm5xZYHNKjAA094Yb-ESZwO2bDdly1vLbbNq=s1600",
   },
 
   faq: [],
 
   whatsappMessage:
-    "Hello Arafa Gold,Karinkallathani, I'd like to know more about your jewellery collections.",
+    "Hello Arafa Gold, I'd like to know more about your jewellery collections.",
 };
